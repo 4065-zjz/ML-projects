@@ -5,4 +5,4 @@ Used Logistic Regression and Random Forest Classifiers
 ## Attempt 2
 Used Sequential Models in Tensorflow/Keras
 ## Attempt 3
-Used Convolutional Neural Networks
+Used Convolutional Neural Networks in Tensorflow/Keras
