@@ -4,3 +4,5 @@ Attempt to recognize ships in given satellite images.
 Used Logistic Regression and Random Forest Classifiers
 ## Attempt 2
 Used Sequential Models in Tensorflow/Keras
+## Attempt 3
+Used Convolutional Neural Networks
